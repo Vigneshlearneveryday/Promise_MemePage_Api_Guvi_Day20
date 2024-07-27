@@ -33,5 +33,3 @@ myPromise
   .catch((error) => {
     console.error(error); // 'Operation failed.'
   });
-
----
